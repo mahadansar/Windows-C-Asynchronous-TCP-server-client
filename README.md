@@ -1,5 +1,5 @@
 # Windows-C-Asynchronous-TCP-server-client
-TCP Socket Programming Implementation of Server and Client on Windows w/ c/c++
+TCP Socket Programming Implementation of Server and Client on Windows w/ c/c++ using multiple threads
 Also contains few mouse functions in Client code
 
 OS Used : Windows 10
